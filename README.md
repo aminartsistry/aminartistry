@@ -1,41 +1,44 @@
+```
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:312E81,45:6D28D9,100:4C1D95&text=YOUR%20NAME&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=59&descSize=18&animation=fadeIn" alt="Profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:030014,35:240046,70:5A189A,100:7B2CBF&text=HOOSHMAND&fontColor=F8F7FF&fontSize=58&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Product%20Builder&descAlignY=59&descSize=18&animation=fadeIn" alt="Hooshmand — Software Engineer and AI/ML Engineer" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Designing+reliable%2C+scalable+software+systems;Building+production-grade+AI%2FML+products;Engineering+high-performance+full-stack+experiences;Turning+complex+problems+into+elegant+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=90&lines=Engineering+scalable%2C+intelligent%2C+production-grade+systems;Building+AI-powered+products+with+measurable+business+impact" alt="Typing SVG" />
 </a>
 
-<br />
+<br>
 
-![Degree](https://img.shields.io/badge/B.Tech-Computer_Science-4338CA?style=flat-square&logo=academia&logoColor=white)
-![Specialization](https://img.shields.io/badge/Specialization-Artificial_Intelligence-6D28D9?style=flat-square&logo=probot&logoColor=white)
-![Academic Focus](https://img.shields.io/badge/Focus-Software_Engineering-7C3AED?style=flat-square&logo=bookstack&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Your_Location-3730A3?style=flat-square&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/Computer%20Science-0B0B14?style=flat-square&logo=academia&logoColor=C084FC" alt="Computer Science" />
+<img src="https://img.shields.io/badge/Software%20Engineering-18102E?style=flat-square&logo=codecrafters&logoColor=A78BFA" alt="Software Engineering" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-241044?style=flat-square&logo=openai&logoColor=C4B5FD" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Tehran%2C%20Iran-31115A?style=flat-square&logo=googlemaps&logoColor=DDD6FE" alt="Tehran, Iran" />
 
-<br /><br />
+<br><br>
 
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-Explore_Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://hooshmand.github.io">
+  <img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/hooshmand">
+  <img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:hooshmand@amin72art.getmx.net">
+  <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/hooshmand">
+  <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub" />
 </a>
 
-<br /><br />
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6d28d9&style=flat-square" alt="Profile views" />
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=4F46E5&labelColor=18181B" alt="GitHub followers" />
+<a href="https://github.com/hooshmand">
+  <img src="https://komarev.com/ghpvc/?username=hooshmand&label=PROFILE+VIEWS&color=6D28D9&style=flat-square" alt="Profile views" />
 </a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&label=Stars&color=7C3AED&labelColor=18181B" alt="GitHub stars" />
+<a href="https://github.com/hooshmand?tab=followers">
+  <img src="https://img.shields.io/github/followers/hooshmand?label=FOLLOWERS&style=flat-square&color=7C3AED&labelColor=111827" alt="GitHub followers" />
+</a>
+<a href="https://github.com/hooshmand?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?label=TOTAL%20STARS&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%253Ahooshmand&style=flat-square&color=8B5CF6&labelColor=111827&logo=github" alt="Total GitHub stars" />
 </a>
 
 </div>
@@ -44,20 +47,13 @@
 
 ## About
 
-I am a **software engineer and AI/ML practitioner** focused on designing dependable systems, intelligent products, and polished digital experiences. My engineering approach combines strong computer-science fundamentals with pragmatic architecture, measurable product outcomes, and an uncompromising focus on maintainability.
+I am a **software engineer and AI/ML builder** focused on designing reliable systems that transform complex product requirements into maintainable, secure, and high-performance software.
 
-I work across the complete product lifecycle—from requirements analysis and system design to implementation, testing, deployment, observability, and continuous improvement. My core interests include **distributed backend systems, applied machine learning, full-stack product engineering, cloud-native infrastructure, developer tooling, and open-source software**.
+My work spans **backend architecture, modern frontend engineering, machine learning systems, data-intensive services, cloud infrastructure, and developer tooling**. I approach engineering with a product mindset—balancing user experience, technical quality, delivery velocity, observability, security, and long-term maintainability.
 
-- Engineer scalable services with clear domain boundaries, resilient APIs, and observable infrastructure.
-- Develop AI/ML workflows spanning data preparation, experimentation, evaluation, deployment, and monitoring.
-- Build accessible, responsive, and performance-oriented web applications.
-- Translate ambiguous product requirements into maintainable technical systems.
-- Prioritize security, automated testing, documentation, and operational excellence.
-- Collaborate effectively across engineering, design, data, and product teams.
+I am particularly interested in building intelligent products that connect **machine learning models with production-grade software systems**. This includes data pipelines, model-serving APIs, retrieval-augmented applications, automation platforms, distributed services, and responsive full-stack experiences.
 
-### Open To
-
-`Software Engineering` · `AI/ML Engineering` · `Backend Engineering` · `Full-Stack Engineering` · `Product Engineering` · `Open-Source Collaboration`
+> **Open To:** Software Engineering • AI/ML Engineering • Full-Stack Development • Product Engineering • Open-Source Collaboration
 
 ---
 
@@ -67,19 +63,19 @@ I work across the complete product lifecycle—from requirements analysis and sy
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,go,sql,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,go,sql,bash&theme=dark" alt="Languages: Python, TypeScript, JavaScript, Java, C++, Go, SQL, and Bash" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,redux,vite&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,redux,vite&theme=dark" alt="Frontend: React, Next.js, Vue, HTML, CSS, Tailwind CSS, Redux, and Vite" />
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,postgres,mongodb,redis&theme=dark" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,postgres,mongodb,redis&theme=dark" alt="Backend and databases: Node.js, Express, FastAPI, Django, Spring, PostgreSQL, MongoDB, and Redis" />
 
 ### Cloud, DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,githubactions,git,linux,nginx,grafana,prometheus&theme=dark" alt="Cloud, DevOps, and engineering tools" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux,git,nginx&theme=dark" alt="Cloud and DevOps: AWS, Docker, Kubernetes, Terraform, GitHub Actions, Linux, Git, and NGINX" />
 
 </div>
 
@@ -89,102 +85,102 @@ I work across the complete product lifecycle—from requirements analysis and sy
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Machine Learning** | Advanced | Supervised and unsupervised learning, feature engineering, model selection, cross-validation, evaluation, and explainability |
-| **Deep Learning** | Advanced | Neural-network design, transfer learning, optimization, regularization, and GPU-enabled training workflows |
-| **Natural Language Processing** | Advanced | Transformers, embeddings, semantic search, text classification, information extraction, and retrieval-augmented generation |
-| **Generative AI** | Advanced | LLM applications, structured prompting, tool calling, RAG pipelines, evaluation, guardrails, and agentic workflows |
-| **Computer Vision** | Proficient | Image classification, object detection, augmentation, transfer learning, and visual data pipelines |
-| **MLOps** | Proficient | Experiment tracking, model versioning, reproducible pipelines, containerized inference, monitoring, and controlled releases |
-| **Data Engineering** | Proficient | Data validation, ETL/ELT workflows, batch processing, analytical modeling, and production data-quality controls |
-| **AI Product Engineering** | Advanced | Converting model capabilities into reliable, secure, measurable, and user-centered production features |
+| **Generative AI & LLM Systems** | Advanced | Prompt architecture, structured generation, tool use, model evaluation, guardrails, and production integration |
+| **Retrieval-Augmented Generation** | Advanced | Embeddings, vector search, hybrid retrieval, reranking, grounding, chunking strategies, and citation pipelines |
+| **Machine Learning Engineering** | Advanced | Feature engineering, training pipelines, validation, experiment tracking, deployment, monitoring, and iteration |
+| **Natural Language Processing** | Advanced | Text classification, semantic search, information extraction, summarization, and language-model applications |
+| **Deep Learning** | Proficient | Neural architectures, transfer learning, optimization, representation learning, and inference workflows |
+| **Computer Vision** | Proficient | Image classification, object detection, preprocessing, augmentation, and model-serving pipelines |
+| **MLOps** | Proficient | Reproducible pipelines, containerized inference, model registries, CI/CD, drift monitoring, and observability |
+| **Data Engineering** | Proficient | ETL/ELT workflows, data validation, event processing, analytical modeling, and scalable storage patterns |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><strong>Intelligent Knowledge Platform</strong> — Production-grade semantic search and RAG system</summary>
+<summary><strong>Enterprise AI Knowledge Platform</strong> — Secure retrieval and intelligent knowledge orchestration</summary>
 
-<br />
+<br>
 
-A modular knowledge platform designed to ingest heterogeneous documents, generate searchable representations, retrieve context with hybrid ranking, and produce evidence-grounded responses through a secure API.
+A production-oriented AI platform designed to turn distributed organizational knowledge into grounded, searchable, and permission-aware answers.
 
-| Dimension | Engineering Details |
+| Dimension | Details |
 |:---|:---|
-| **Stack** | Python, FastAPI, PostgreSQL, pgvector, Redis, React, Docker, AWS |
-| **Scale** | Asynchronous ingestion, batched embedding generation, horizontal API scaling, and multi-tenant indexing |
-| **Performance** | Cached retrieval, optimized vector queries, streaming responses, and latency-aware reranking |
-| **Security** | Role-based authorization, tenant isolation, encrypted secrets, request validation, and audit logging |
-| **Impact** | Reduces knowledge-discovery time and provides traceable, citation-backed answers across internal content |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/intelligent-knowledge-platform) |
+| **Stack** | Python, FastAPI, TypeScript, Next.js, PostgreSQL, Redis, vector search, Docker |
+| **Scale** | Designed for multi-source ingestion, asynchronous processing, and horizontal service scaling |
+| **Performance** | Cached retrieval, batched embeddings, optimized indexing, streaming responses, and latency-aware routing |
+| **Security** | Role-based access control, source-level authorization, audit trails, secret isolation, and input validation |
+| **Impact** | Reduces knowledge discovery time and creates a reusable foundation for internal AI workflows |
+| **Repository** | [Explore related repositories](https://github.com/hooshmand?tab=repositories&q=ai) |
 
-The system separates ingestion, retrieval, generation, and evaluation into independently testable components. Its architecture supports provider abstraction, reproducible indexing, observability, prompt versioning, and automated quality evaluation for production AI workflows.
+The system separates ingestion, indexing, retrieval, generation, and evaluation into independently testable components. Its architecture emphasizes grounded responses, transparent sources, configurable model providers, observability, and safe integration with enterprise data.
 
 </details>
 
-<br />
+<br>
 
 <details>
-<summary><strong>Cloud-Native Commerce Engine</strong> — Scalable transactional backend and storefront</summary>
+<summary><strong>Cloud-Native Commerce Engine</strong> — Scalable transactional product architecture</summary>
 
-<br />
+<br>
 
-An enterprise-oriented commerce platform with modular catalog, inventory, checkout, payment, order, and notification capabilities exposed through versioned APIs.
+A modular commerce platform built around resilient APIs, consistent transactional workflows, secure identity, and measurable operational performance.
 
-| Dimension | Engineering Details |
+| Dimension | Details |
 |:---|:---|
-| **Stack** | TypeScript, Node.js, Next.js, PostgreSQL, Redis, Kafka, Docker, Kubernetes |
-| **Scale** | Stateless services, event-driven workflows, queue-based processing, and independently scalable modules |
-| **Performance** | Database indexing, application caching, optimized server rendering, connection pooling, and CDN delivery |
-| **Security** | OAuth-compatible authentication, least-privilege access, idempotent payments, rate limiting, and secure headers |
-| **Impact** | Demonstrates resilient transaction processing and a maintainable foundation for high-growth digital commerce |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/cloud-commerce-engine) |
+| **Stack** | TypeScript, Node.js, React, PostgreSQL, Redis, Docker, Kubernetes, AWS |
+| **Scale** | Stateless services, asynchronous jobs, distributed caching, and independently scalable workloads |
+| **Performance** | Query optimization, cache-aside strategies, pagination, connection pooling, and background processing |
+| **Security** | Token-based authentication, least-privilege authorization, rate limiting, validation, and secure headers |
+| **Impact** | Provides a maintainable foundation for rapid feature delivery without sacrificing reliability |
+| **Repository** | [Explore related repositories](https://github.com/hooshmand?tab=repositories&q=commerce) |
 
-The platform emphasizes transactional correctness, fault isolation, idempotency, and operational visibility. Automated tests cover business-critical paths, while CI/CD workflows enforce code quality, security scanning, and repeatable deployments.
+The platform applies domain-driven boundaries to catalog, inventory, checkout, payment, and order workflows. Automated testing, structured logging, health checks, deployment pipelines, and failure-aware integrations support production readiness.
 
 </details>
 
-<br />
+<br>
 
 <details>
-<summary><strong>Real-Time Engineering Analytics</strong> — Streaming telemetry and observability platform</summary>
+<summary><strong>Real-Time Analytics Pipeline</strong> — Event-driven data processing and observability</summary>
 
-<br />
+<br>
 
-A real-time analytics system that processes application events and operational telemetry into searchable metrics, live dashboards, alerts, and engineering insights.
+A high-throughput analytics architecture for collecting, transforming, enriching, and serving operational product events.
 
-| Dimension | Engineering Details |
+| Dimension | Details |
 |:---|:---|
-| **Stack** | Go, Kafka, ClickHouse, PostgreSQL, React, WebSockets, Prometheus, Grafana |
-| **Scale** | Partitioned event streams, concurrent consumers, compressed analytical storage, and distributed processing |
-| **Performance** | Buffered ingestion, columnar queries, pre-aggregated metrics, efficient serialization, and backpressure controls |
-| **Security** | Signed ingestion keys, scoped access, schema validation, retention controls, and immutable audit records |
-| **Impact** | Improves incident detection, release visibility, capacity planning, and engineering decision-making |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/realtime-engineering-analytics) |
+| **Stack** | Python, Go, Kafka, PostgreSQL, Redis, ClickHouse, Docker, Grafana |
+| **Scale** | Partitioned event streams, idempotent consumers, backpressure controls, and horizontally scalable workers |
+| **Performance** | Batch-aware writes, indexed analytical queries, efficient serialization, and pre-aggregated metrics |
+| **Security** | Schema validation, encrypted transport, service authentication, retention policies, and audit logging |
+| **Impact** | Converts raw event streams into actionable product and engineering intelligence |
+| **Repository** | [Explore related repositories](https://github.com/hooshmand?tab=repositories&q=analytics) |
 
-The platform is designed around reliable event delivery, schema evolution, failure recovery, and low-latency visualization. It demonstrates practical distributed-systems concepts alongside production observability patterns.
+The pipeline is designed around durable event delivery, replayable processing, explicit schemas, dead-letter handling, and end-to-end telemetry. It supports both near-real-time dashboards and historical analytical workloads.
 
 </details>
 
-<br />
+<br>
 
 <details>
-<summary><strong>Developer Productivity Suite</strong> — Automated quality and delivery intelligence</summary>
+<summary><strong>Developer Productivity Platform</strong> — Automated delivery, quality, and engineering insights</summary>
 
-<br />
+<br>
 
-A developer platform that integrates repository health checks, pull-request analysis, release automation, engineering metrics, and actionable quality reports.
+An internal engineering platform that standardizes project workflows, automates quality gates, and improves visibility across the software delivery lifecycle.
 
-| Dimension | Engineering Details |
+| Dimension | Details |
 |:---|:---|
-| **Stack** | Python, TypeScript, GitHub Apps, GitHub Actions, PostgreSQL, Docker, Terraform |
-| **Scale** | Event-driven webhook processing, distributed task execution, organization-level repository support |
-| **Performance** | Incremental analysis, cached metadata, parallel checks, and asynchronous report generation |
-| **Security** | Minimal GitHub App permissions, signed webhook verification, secret rotation, and protected deployment workflows |
-| **Impact** | Shortens feedback cycles, standardizes engineering practices, and improves software-delivery confidence |
-| **Repository** | [View Repository](https://github.com/YOUR_USERNAME/developer-productivity-suite) |
+| **Stack** | Go, TypeScript, GitHub Actions, Terraform, Kubernetes, Prometheus, Grafana |
+| **Scale** | Reusable workflows, multi-repository automation, policy-driven infrastructure, and distributed runners |
+| **Performance** | Parallel pipelines, dependency caching, incremental validation, and optimized build artifacts |
+| **Security** | Short-lived credentials, protected environments, dependency scanning, signed artifacts, and policy checks |
+| **Impact** | Improves deployment consistency, engineering feedback loops, and operational confidence |
+| **Repository** | [Explore related repositories](https://github.com/hooshmand?tab=repositories&q=devops) |
 
-The suite codifies engineering standards without interrupting developer workflows. It provides extensible policy checks, structured insights, and automated remediation guidance while maintaining clear security boundaries.
+The platform treats developer experience as a product. It combines paved-road templates, automated testing, infrastructure workflows, deployment controls, and actionable engineering metrics into a cohesive delivery system.
 
 </details>
 
@@ -192,46 +188,30 @@ The suite codifies engineering standards without interrupting developer workflow
 
 ## Experience
 
-### Software Engineer · Company Name
+### Software Engineer & AI/ML Builder  
+**Independent Engineering Practice**  
+`Ongoing`
 
-**Month YYYY — Present**
+Building production-oriented software systems and intelligent product experiences across backend services, modern web applications, machine learning workflows, cloud infrastructure, and engineering automation.
 
-Build and operate customer-facing products and internal platforms with an emphasis on system reliability, engineering quality, and measurable business outcomes.
+**Scope of Work**
 
-- Designed maintainable full-stack features from technical discovery through production rollout.
-- Developed secure APIs, background jobs, data models, and integrations for business-critical workflows.
-- Improved application performance through profiling, caching, query optimization, and frontend delivery improvements.
-- Established automated testing, continuous integration, release checks, and production observability.
-- Collaborated with product, design, and engineering stakeholders to convert requirements into incremental delivery plans.
-- Reviewed code, documented architectural decisions, and supported engineering standards across the team.
+- Architect maintainable full-stack applications with explicit domain boundaries and scalable service interfaces.
+- Develop AI-powered workflows using language models, retrieval systems, structured outputs, and evaluation pipelines.
+- Design secure APIs, asynchronous processing systems, data models, caching layers, and observability strategies.
+- Create responsive, accessible frontend experiences with reusable components and predictable state management.
+- Containerize services and establish automated testing, integration, deployment, and infrastructure workflows.
+- Translate ambiguous product problems into measurable technical outcomes and iterative delivery plans.
+- Improve reliability through monitoring, structured logs, health checks, performance profiling, and failure analysis.
+- Contribute reusable patterns, technical documentation, and open-source engineering work.
 
-![Python](https://img.shields.io/badge/Python-312E81?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-4338CA?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-4F46E5?style=flat-square&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-5B21B6?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-7C3AED?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3730A3?style=flat-square&logo=docker&logoColor=white)
-
-<br />
-
-### Software Engineering Intern · Company Name
-
-**Month YYYY — Month YYYY**
-
-Contributed to production software by delivering tested features, improving engineering workflows, and supporting the reliability of shared systems.
-
-- Implemented reusable frontend components and backend endpoints aligned with established architecture.
-- Added unit and integration tests for critical application behavior.
-- Investigated defects using logs, traces, database analysis, and reproducible test cases.
-- Improved technical documentation and contributed to team code reviews.
-- Participated in agile planning, technical discussions, demonstrations, and retrospectives.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-312E81?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-4338CA?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-5B21B6?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-6D28D9?style=flat-square&logo=linux&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-7C3AED?style=flat-square&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Software%20Architecture-18102E?style=flat-square&logoColor=C4B5FD" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Engineering-241044?style=flat-square&logo=openai&logoColor=C4B5FD" alt="AI and ML Engineering" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-31115A?style=flat-square&logo=stackblitz&logoColor=DDD6FE" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/Cloud%20Engineering-3B1768?style=flat-square&logo=icloud&logoColor=EDE9FE" alt="Cloud Engineering" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-4C1D95?style=flat-square&logo=producthunt&logoColor=white" alt="Product Engineering" />
+</p>
 
 ---
 
@@ -241,11 +221,12 @@ Contributed to production software by delivering tested features, improving engi
 
 | Recognition | Details |
 |:---|:---|
-| **Open-Source Contributor** | Contributed code, documentation, issue analysis, and engineering improvements to collaborative software projects |
-| **Competitive Programming** | Applied data structures, algorithms, optimization techniques, and disciplined problem-solving across coding platforms |
-| **Project Excellence** | Designed end-to-end software products with production-minded architecture, testing, security, and deployment workflows |
-| **Technical Leadership** | Supported peers through code review, technical documentation, knowledge sharing, and collaborative problem decomposition |
-| **Engineering Innovation** | Built AI-enabled systems that connect model capabilities with dependable, measurable product experiences |
+| **Production Engineering** | Designs software with reliability, maintainability, security, observability, and measurable performance as first-class requirements |
+| **AI Product Development** | Connects modern AI capabilities with practical product workflows, robust APIs, evaluation systems, and human-centered interfaces |
+| **Full-Stack Ownership** | Works across product discovery, architecture, implementation, testing, deployment, monitoring, and continuous improvement |
+| **Cloud-Native Delivery** | Builds containerized systems supported by automated delivery pipelines and infrastructure-as-code practices |
+| **Open-Source Mindset** | Values transparent engineering, reusable components, clear documentation, peer review, and community-driven improvement |
+| **Continuous Learning** | Maintains an active learning practice across distributed systems, machine learning, security, and software architecture |
 
 </div>
 
@@ -255,23 +236,39 @@ Contributed to production software by delivering tested features, improving engi
 
 ### AWS
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-4F46E5?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/)
-[![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-6D28D9?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/training/)
+<a href="https://aws.amazon.com/certification/">
+  <img src="https://img.shields.io/badge/AWS-Certification%20Track-4C1D95?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certification Track" />
+</a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-6D28D9?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud Practitioner Track" />
+</a>
 
 ### Oracle
 
-[![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle-Cloud_Infrastructure-4338CA?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
-[![Oracle Java Foundations](https://img.shields.io/badge/Oracle-Java_Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/)
+<a href="https://education.oracle.com/oracle-certification-path/pFamily_48">
+  <img src="https://img.shields.io/badge/Oracle-Java%20Certification%20Track-5B21B6?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java Certification Track" />
+</a>
+<a href="https://education.oracle.com/oracle-database-certification/pFamily_32">
+  <img src="https://img.shields.io/badge/Oracle-Database%20Track-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database Certification Track" />
+</a>
 
 ### NPTEL
 
-[![NPTEL Programming](https://img.shields.io/badge/NPTEL-Programming_&_Algorithms-4F46E5?style=for-the-badge&logo=bookstack&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL Machine Learning](https://img.shields.io/badge/NPTEL-Machine_Learning-6D28D9?style=for-the-badge&logo=probot&logoColor=white)](https://nptel.ac.in/)
+<a href="https://nptel.ac.in/courses">
+  <img src="https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-4F46E5?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="NPTEL Artificial Intelligence Track" />
+</a>
+<a href="https://nptel.ac.in/courses">
+  <img src="https://img.shields.io/badge/NPTEL-Data%20Science-6366F1?style=for-the-badge&logo=databricks&logoColor=white" alt="NPTEL Data Science Track" />
+</a>
 
 ### Cisco
 
-[![Cisco Networking](https://img.shields.io/badge/Cisco-Networking_Essentials-4338CA?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
-[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity_Essentials-7C3AED?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
+<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html">
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Track-4338CA?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Networking Certification Track" />
+</a>
+<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/cybersecurity/index.html">
+  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Track-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Certification Track" />
+</a>
 
 ---
 
@@ -279,17 +276,17 @@ Contributed to production software by delivering tested features, improving engi
 
 <div align="center">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE">
-  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+<a href="https://leetcode.com/u/hooshmand/">
+  <img src="https://img.shields.io/badge/LeetCode-HOOSHMAND-18102E?style=for-the-badge&logo=leetcode&logoColor=A78BFA" alt="LeetCode profile" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Algorithms-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+<a href="https://www.geeksforgeeks.org/user/hooshmand/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-HOOSHMAND-241044?style=for-the-badge&logo=geeksforgeeks&logoColor=C4B5FD" alt="GeeksforGeeks profile" />
 </a>
-<a href="https://www.hackerrank.com/profile/YOUR_HACKERRANK">
-  <img src="https://img.shields.io/badge/HackerRank-Engineering-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+<a href="https://www.hackerrank.com/profile/hooshmand">
+  <img src="https://img.shields.io/badge/HackerRank-HOOSHMAND-31115A?style=for-the-badge&logo=hackerrank&logoColor=DDD6FE" alt="HackerRank profile" />
 </a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-4338CA?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+<a href="https://www.codechef.com/users/hooshmand">
+  <img src="https://img.shields.io/badge/CodeChef-HOOSHMAND-4C1D95?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
 </a>
 
 </div>
@@ -300,17 +297,17 @@ Contributed to production software by delivering tested features, improving engi
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=7C3AED&ring_color=8B5CF6" alt="GitHub statistics" />
+<a href="https://github.com/hooshmand">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hooshmand&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D0718&title_color=A855F7&text_color=DDD6FE&icon_color=7C3AED" alt="Hooshmand's GitHub statistics" />
 </a>
-<a href="https://git.io/streak-stats">
-  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&stroke=4C1D95&ring=8B5CF6&fire=A78BFA&currStreakNum=FFFFFF&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=94A3B8" alt="GitHub contribution streak" />
+<a href="https://github.com/hooshmand">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=hooshmand&hide_border=true&background=0D0718&stroke=6D28D9&ring=A855F7&fire=8B5CF6&currStreakNum=F5F3FF&sideNums=DDD6FE&currStreakLabel=C084FC&sideLabels=A78BFA&dates=8B86A3" alt="Hooshmand's GitHub contribution streak" />
 </a>
 
-<br />
+<br>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&icon_color=7C3AED" alt="Most-used languages" />
+<a href="https://github.com/hooshmand?tab=repositories">
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooshmand&layout=compact&langs_count=10&hide_border=true&bg_color=0D0718&title_color=A855F7&text_color=DDD6FE&icon_color=7C3AED" alt="Hooshmand's most-used programming languages" />
 </a>
 
 </div>
@@ -322,7 +319,7 @@ Contributed to production software by delivering tested features, improving engi
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=hooshmand&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="Hooshmand's GitHub trophies" />
 </a>
 
 </div>
@@ -333,8 +330,8 @@ Contributed to production software by delivering tested features, improving engi
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4C1D95&hide_border=true&custom_title=Engineering%20Contribution%20Activity" alt="GitHub contribution activity graph" />
+<a href="https://github.com/hooshmand">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hooshmand&bg_color=0D0718&color=C4B5FD&line=7C3AED&point=A855F7&area=true&area_color=4C1D95&hide_border=true&custom_title=Engineering%20Contribution%20Activity" alt="Hooshmand's GitHub contribution activity graph" />
 </a>
 
 </div>
@@ -345,11 +342,11 @@ Contributed to production software by delivering tested features, improving engi
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/hooshmand">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hooshmand/hooshmand/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hooshmand/hooshmand/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/hooshmand/hooshmand/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
   </picture>
 </a>
 
@@ -358,27 +355,38 @@ Contributed to production software by delivering tested features, improving engi
 ---
 
 ## Current Focus
-```yaml
+
+```
+
 learning:
-  - Distributed systems and resilient cloud architecture
-  - Production LLM evaluation, observability, and safety
-  - Advanced data structures and system design
+
+- Distributed systems and resilient cloud architecture
+- Production LLM evaluation and AI safety patterns
+- High-performance backend and data-intensive engineering
+- Advanced Kubernetes, observability, and platform engineering
 
 building:
-  - AI-native developer and knowledge products
-  - Scalable APIs and event-driven backend platforms
-  - Open-source tools for engineering productivity
+
+- AI-powered developer and knowledge workflows
+- Secure full-stack products with scalable service boundaries
+- Reusable open-source tools and engineering components
+- Automated delivery pipelines and cloud-native infrastructure
 
 exploring:
-  - Agentic workflows and human-in-the-loop systems
-  - High-performance data infrastructure
-  - Cloud cost optimization and platform engineering
+
+- Agentic systems and reliable tool-use architectures
+- Retrieval quality, hybrid search, and knowledge graphs
+- Event-driven systems and real-time analytics
+- Human-centered interfaces for intelligent software
 
 open_to:
-  - Software Engineering opportunities
-  - AI/ML Engineering opportunities
-  - Full-Stack and Product Engineering roles
-  - Open-source collaboration
+
+- Senior software engineering opportunities
+- AI and machine learning engineering roles
+- Full-stack and product engineering collaborations
+- Open-source projects with meaningful technical impact
+
+```
 
 ---
 
@@ -386,17 +394,17 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Gmail-Let's_Talk-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<a href="mailto:hooshmand@amin72art.getmx.net">
+  <img src="https://img.shields.io/badge/Gmail-hooshmand-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hooshmand" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/hooshmand">
+  <img src="https://img.shields.io/badge/LinkedIn-hooshmand-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Hooshmand on LinkedIn" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Explore_Repositories-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/hooshmand">
+  <img src="https://img.shields.io/badge/GitHub-hooshmand-18102E?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Follow Hooshmand on GitHub" />
 </a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-View_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://hooshmand.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Hooshmand's portfolio" />
 </a>
 
 </div>
@@ -405,8 +413,9 @@ open_to:
 
 <div align="center">
 
-**Engineering durable systems, intelligent products, and software that creates measurable value.**
+**“Engineer systems that scale, intelligence that delivers value, and products that earn trust.”**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312E81,45:6D28D9,100:4C1D95" alt="Profile footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7B2CBF,35:5A189A,70:240046,100:030014" alt="Footer banner" />
 
 </div>
+```
