@@ -1,394 +1,239 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,6,24&height=220&section=header&text=USERNAME&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%2F%20ML%20%7C%20Full-Stack%20%7C%20Systems&descAlignY=55&descSize=18&animation=fadeIn" alt="header" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Building+scalable+systems+and+intelligent+products.;Software+Engineer+%7C+AI+%2F+ML+Engineer+%7C+Full-Stack;Open+Source+%7C+Product+Engineering+%7C+Cloud-Native" alt="Typing SVG" />
-  </a>
-</div>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aarav%20Sharma&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Education-B.Tech%20Computer%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Education" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering%20%7C%20AI%2FML-4C1D95?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Global-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</div>
+<a href="https://github.com/aaravsharma">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Scalable+Systems+at+Scale;Engineering+Intelligent+AI+Solutions;Full+Stack+%E2%80%A2+Cloud+Native+%E2%80%A2+MLOps;Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
+</a>
 
-<br />
+<br/><br/>
 
-<div align="center">
-  <a href="https://username.dev">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=About.me&logoColor=A78BFA&labelColor=0D1117" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/username">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hello@username.dev">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree"/>
+<img src="https://img.shields.io/badge/CGPA-9.2%2F10-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="CGPA"/>
+<img src="https://img.shields.io/badge/📍_Bengaluru,_India-4C1D95?style=for-the-badge" alt="Location"/>
 
-<br />
+<br/><br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=6D28D9&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/USERNAME?style=for-the-badge&logo=github&color=4C1D95&label=Stars" alt="Stars" />
+<a href="https://aaravsharma.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/aaravsharma"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:aarav.sharma@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/aaravsharma"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aaravsharma&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/aaravsharma?style=flat-square&color=6366F1&labelColor=1e1e2e&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/aaravsharma?style=flat-square&color=7C3AED&labelColor=1e1e2e&label=STARS" alt="Stars"/>
+
 </div>
 
 ---
 
-<div align="center">
-  <h2>About</h2>
-</div>
+## 🧑‍💻 About
+```typescript
+const aarav: SoftwareEngineer = {
+  role: "Software Engineer • AI/ML Engineer • Full Stack Developer",
+  philosophy: "Build systems that scale, ship products that matter",
+};
 
-Software Engineer specializing in building reliable, high-performance systems at the intersection of **software engineering**, **AI/ML**, and **product development**. I design and ship production-grade platforms with a strong focus on scalability, observability, clean architecture, and measurable business impact.
+Software Engineer with a deep focus on **distributed systems**, **applied machine learning**, and **production-grade full stack development**. I architect and ship end-to-end products — from data pipelines and ML inference services to cloud-native backends and polished frontends.
 
-My work spans the full stack — from distributed backend services and data/ML pipelines to polished frontend experiences — with a product engineering mindset that prioritizes user value, system correctness, and long-term maintainability. I care deeply about code quality, API design, performance budgets, and operational excellence.
+- 🔭 Engineering **scalable microservices** and **ML-powered platforms** handling real-world traffic
+- 🧠 Specialized in **Deep Learning, NLP, and LLM-based systems** — from fine-tuning to deployment
+- ⚙️ Strong **product engineering mindset** — I care about latency, reliability, DX, and user impact
+- 🌐 Full stack proficiency across **React/Next.js, Node.js, Python, and cloud infrastructure**
+- 📈 Obsessed with **clean architecture, observability, and performance optimization**
 
-I apply machine learning where it creates real leverage: recommendation and ranking systems, intelligent automation, LLM-powered developer tools, and MLOps foundations that keep models reliable in production.
-
-**Open To**
-- Full-time Software Engineer / AI Engineer / Full-Stack roles
-- High-impact product & platform engineering opportunities
-- Open-source collaboration and technical partnerships
-- System design discussions and engineering mentorship
+> **Open To:** SDE / AI Engineer roles • Open Source Collaboration • Freelance Architecture Consulting • Technical Writing
 
 ---
 
+## 🛠️ Tech Stack
+
 <div align="center">
-  <h2>Tech Stack</h2>
-</div>
 
 ### Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go,rust,bash&theme=dark" alt="Languages" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript,javascript,go,rust,bash&theme=dark" alt="Languages"/>
 
 ### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,redux,vite&theme=dark" alt="Frontend" />
-</div>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,sass,figma&theme=dark" alt="Frontend"/>
 
 ### Backend & Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,postgres,mongodb,redis,prisma&theme=dark" alt="Backend" />
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,graphql,postgres,mongodb,redis&theme=dark" alt="Backend"/>
 
 ### Cloud, DevOps & Tooling
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,nginx,githubactions,prometheus,grafana&theme=dark" alt="Cloud DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,linux,git&theme=dark" alt="DevOps"/>
+
 </div>
 
 ---
 
-<div align="center">
-  <h2>AI / ML Expertise</h2>
-</div>
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| Machine Learning | Advanced | Classical ML, feature engineering, model evaluation, scikit-learn, XGBoost, production inference patterns |
-| Deep Learning | Advanced | PyTorch, TensorFlow, neural architectures, transfer learning, training optimization |
-| NLP & LLMs | Advanced | Transformers, fine-tuning, RAG systems, embeddings, evaluation harnesses, prompt & agent design |
-| Computer Vision | Intermediate | CNNs, detection/segmentation pipelines, model deployment for visual workloads |
-| MLOps & Systems | Advanced | Experiment tracking, model serving, feature stores, monitoring, CI/CD for ML, scalable training |
-| Data Engineering | Advanced | Batch & streaming pipelines, data quality, lakehouse patterns, orchestration |
+|:------:|:-----------:|:--------|
+| **Deep Learning** | ██████████ 95% | CNNs, RNNs, Transformers, custom architectures in PyTorch & TensorFlow |
+| **NLP & LLMs** | █████████░ 90% | Fine-tuning, RAG pipelines, LangChain, vector databases, prompt engineering |
+| **Computer Vision** | ████████░░ 85% | Object detection, segmentation, OCR, real-time video inference |
+| **MLOps** | █████████░ 90% | Model serving, CI/CD for ML, monitoring, MLflow, Kubeflow, ONNX optimization |
+| **Classical ML** | ██████████ 95% | Feature engineering, ensemble methods, statistical modeling, scikit-learn |
+| **Data Engineering** | ████████░░ 85% | ETL pipelines, Spark, Airflow, streaming with Kafka |
 
 </div>
 
 ---
 
-<div align="center">
-  <h2>Featured Projects</h2>
-</div>
+## 🚀 Featured Projects
 
 <details>
-<summary><strong>NeuralForge — Distributed Model Training & Serving Platform</strong></summary>
-<br />
+<summary><b>⚡ NeuraServe — Distributed LLM Inference Platform</b></summary>
+<br/>
 
-Production-oriented platform for large-scale model training, experiment management, and low-latency model serving. Designed for teams that need reproducible pipelines, efficient GPU utilization, and reliable online inference.
+> Production-grade platform for serving fine-tuned LLMs with dynamic batching, semantic caching, and horizontal autoscaling.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, PyTorch, Kubernetes, Ray, FastAPI, Redis, Prometheus | Multi-node GPU clusters; 100+ concurrent experiments | 40% faster training throughput via optimized scheduling | AuthN/Z, secret management, network policies, audit logging | Reduced model iteration cycle time for research → production | [Private / Request Access](https://github.com/USERNAME) |
+| Attribute | Details |
+|:---------:|:--------|
+| **Stack** | Python, FastAPI, PyTorch, vLLM, Redis, Kubernetes, Terraform |
+| **Scale** | 10K+ requests/min across multi-region GPU clusters |
+| **Performance** | P99 latency < 300ms with continuous batching & KV-cache optimization |
+| **Security** | JWT auth, rate limiting, per-tenant isolation, encrypted model artifacts |
+| **Impact** | Reduced inference costs by **62%** via semantic caching & quantization |
+| **Repository** | [github.com/aaravsharma/neuraserve](https://github.com/aaravsharma/neuraserve) |
 
-Built end-to-end orchestration for distributed training jobs, automatic checkpointing, hyperparameter sweeps, and canary model rollouts. Emphasis on observability, cost control, and safe promotion of models into production traffic.
+Engineered a fault-tolerant inference layer with intelligent request routing, GPU utilization monitoring, and zero-downtime model rollouts. Implemented INT8 quantization and speculative decoding to maximize throughput per GPU dollar.
 
 </details>
 
-<br />
-
 <details>
-<summary><strong>AetherGateway — High-Performance API & GraphQL Edge Platform</strong></summary>
-<br />
+<summary><b>🛒 CommerceForge — Event-Driven E-Commerce Microservices</b></summary>
+<br/>
 
-Cloud-native API gateway and GraphQL federation layer powering multi-service product surfaces. Focused on latency, developer experience, and enterprise-grade traffic management.
+> Enterprise-grade e-commerce backend built on event sourcing, CQRS, and saga orchestration patterns.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Go, Node.js, GraphQL, Envoy, Kubernetes, PostgreSQL, Redis | Millions of daily requests across services | p99 latency optimized; aggressive caching & connection pooling | OAuth2/OIDC, rate limiting, WAF integration, mTLS | Unified API surface; improved reliability & developer velocity | [github.com/USERNAME/aether-gateway](https://github.com/USERNAME) |
+| Attribute | Details |
+|:---------:|:--------|
+| **Stack** | Node.js, TypeScript, Kafka, PostgreSQL, Redis, Docker, AWS ECS |
+| **Scale** | Designed for 50K+ concurrent users, 1M+ daily events |
+| **Performance** | Sub-100ms API responses with read-model projections & caching |
+| **Security** | OAuth 2.0, PCI-DSS-aligned payment flow, idempotent transaction handling |
+| **Impact** | 99.95% uptime; order-processing throughput improved **4×** |
+| **Repository** | [github.com/aaravsharma/commerceforge](https://github.com/aaravsharma/commerceforge) |
 
-Implemented schema stitching, intelligent caching, circuit breaking, and comprehensive telemetry. Designed for multi-tenant isolation and progressive delivery of backend changes.
+Architected 8 decoupled services communicating via Kafka with exactly-once semantics. Implemented distributed sagas for order orchestration, outbox pattern for reliability, and full observability with OpenTelemetry + Grafana.
 
 </details>
 
-<br />
-
 <details>
-<summary><strong>InsightFlow — Real-Time Analytics & Feature Platform</strong></summary>
-<br />
+<summary><b>🩺 MedVision AI — Clinical Imaging Diagnosis Assistant</b></summary>
+<br/>
 
-Streaming analytics and ML feature platform that unifies event ingestion, feature computation, and low-latency online serving for product and ML teams.
+> Deep learning system for detecting anomalies in chest X-rays with explainable Grad-CAM visualizations.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Kafka, Flink/Spark, ClickHouse, FastAPI, AWS | Billions of events; high-cardinality feature sets | Sub-10ms online feature lookups at scale | Encryption in transit/rest, IAM least privilege, data governance | Enabled real-time personalization and fraud signals | [github.com/USERNAME/insightflow](https://github.com/USERNAME) |
+| Attribute | Details |
+|:---------:|:--------|
+| **Stack** | PyTorch, EfficientNet, FastAPI, React, ONNX Runtime, GCP |
+| **Scale** | Trained on 120K+ annotated radiology images |
+| **Performance** | 94.6% AUC-ROC; inference < 150ms on CPU via ONNX optimization |
+| **Security** | HIPAA-aligned data handling, anonymized DICOM processing, audit logging |
+| **Impact** | Cut preliminary screening time by **70%** in pilot evaluation |
+| **Repository** | [github.com/aaravsharma/medvision-ai](https://github.com/aaravsharma/medvision-ai) |
 
-Delivered reliable event pipelines, point-in-time correct features, monitoring for data drift, and a self-serve interface for analysts and ML engineers.
+Built the full ML lifecycle — data augmentation pipelines, multi-label classification with class-imbalance handling, model explainability with Grad-CAM overlays, and a clinician-facing dashboard with confidence-calibrated predictions.
 
 </details>
 
-<br />
+<details>
+<summary><b>📡 StreamPulse — Real-Time Analytics Engine</b></summary>
+<br/>
+
+> High-throughput stream processing engine delivering real-time dashboards from clickstream data.
+
+| Attribute | Details |
+|:---------:|:--------|
+| **Stack** | Go, Kafka, ClickHouse, WebSockets, Next.js, Kubernetes |
+| **Scale** | Processes 500K+ events/sec with sub-second aggregation windows |
+| **Performance** | End-to-end pipeline latency < 800ms at peak load |
+| **Security** | mTLS between services, API-key scoping, schema validation at ingest |
+| **Impact** | Replaced batch reporting; insights latency dropped from **hours to seconds** |
+| **Repository** | [github.com/aaravsharma/streampulse](https://github.com/aaravsharma/streampulse) |
+
+Designed a windowed aggregation engine in Go with backpressure handling and exactly-once delivery guarantees. Live dashboards stream via WebSockets with delta updates, backed by ClickHouse materialized views.
+
+</details>
 
 <details>
-<summary><strong>CodeSentinel — AI-Assisted Code Intelligence & Security Scanner</strong></summary>
-<br />
+<summary><b>🔐 VaultKit — Zero-Trust Secrets Management CLI</b></summary>
+<br/>
 
-Developer platform that combines static analysis, LLM-powered review, and security scanning to surface high-signal issues early in the development lifecycle.
+> Developer-first CLI and SDK for managing application secrets with envelope encryption and short-lived dynamic credentials.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| TypeScript, Python, LLMs, PostgreSQL, Docker, GitHub Apps | Multi-repo organization scanning | Incremental analysis; prioritized findings | Sandboxed execution, secret redaction, least-privilege tokens | Higher review quality; earlier vulnerability detection | [github.com/USERNAME/codesentinel](https://github.com/USERNAME) |
+| Attribute | Details |
+|:---------:|:--------|
+| **Stack** | Rust, gRPC, PostgreSQL, HashiCorp Vault, AWS KMS, GitHub Actions |
+| **Scale** | Manages 5K+ secrets across 40+ services and 3 environments |
+| **Performance** | Secret resolution < 20ms with local encrypted caching |
+| **Security** | Envelope encryption (AES-256-GCM), audit trails, automatic rotation, least-privilege policies |
+| **Impact** | Eliminated plaintext secrets from CI/CD; onboarding time cut from days to **minutes** |
+| **Repository** | [github.com/aaravsharma/vaultkit](https://github.com/aaravsharma/vaultkit) |
 
-Integrated into CI and pull-request workflows with actionable feedback, custom rule packs, and continuous improvement of detection quality through human-in-the-loop signals.
+Built a zero-trust access model with short-lived tokens, per-environment scoping, and seamless injection into containers and CI pipelines. Ships as a single static binary with SDKs for Node.js and Python.
 
 </details>
 
 ---
 
-<div align="center">
-  <h2>Experience</h2>
-</div>
-
-### Senior Software Engineer
-**Vertex Labs**  
-`2023 – Present`
-
-Leading design and delivery of scalable backend platforms and AI-powered product features. Partnering closely with product, design, and infrastructure teams to ship reliable systems used in production at scale.
-
-- Architected and implemented distributed services with strong consistency, observability, and failure isolation
-- Built ML-backed product capabilities including ranking, personalization signals, and intelligent automation
-- Drove API design, performance optimization, and production readiness (SLOs, alerting, runbooks)
-- Mentored engineers on system design, code quality, and operational excellence
-
-`Python` `Go` `TypeScript` `Kubernetes` `AWS` `PostgreSQL` `Redis` `PyTorch` `System Design`
-
-<br />
-
-### Software Engineer
-**Nimbus Systems**  
-`2021 – 2023`
-
-Full-stack and platform engineering for cloud-native products. Owned critical services end-to-end from design through production operations.
-
-- Designed microservices and event-driven workflows handling high-throughput business operations
-- Improved latency and reliability of core APIs through caching, query optimization, and load testing
-- Implemented CI/CD, infrastructure as code, and monitoring that reduced deployment risk
-- Collaborated on product roadmap and translated requirements into robust technical solutions
-
-`Java` `Node.js` `React` `PostgreSQL` `Docker` `GCP` `GraphQL` `Terraform`
-
-<br />
-
-### Software Engineering Intern
-**Horizon Technologies**  
-`2020 – 2021`
-
-Contributed to production features and internal tooling with a focus on correctness, testing, and developer experience.
-
-- Delivered full-stack features with strong test coverage and clean interfaces
-- Built internal utilities that improved team productivity and release confidence
-- Participated in design reviews, on-call rotations, and production incident analysis
-
-`JavaScript` `Python` `SQL` `REST` `Git` `Linux`
-
----
-
-<div align="center">
-  <h2>Achievements</h2>
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Recognition | Details |
-| :--- | :--- |
-| Production Impact Awards | Recognized for delivering high-reliability platform improvements that reduced critical incidents and improved core latency |
-| Open Source Contributions | Meaningful contributions to developer tooling, infrastructure libraries, and ML utilities used by the community |
-| Competitive Programming & DSA | Strong problem-solving foundation demonstrated across major coding platforms and system design practice |
-| Technical Leadership | Led cross-functional initiatives spanning architecture, mentoring, and production excellence |
-| Academic Excellence | Consistent high performance in computer science fundamentals, systems, and AI coursework |
+<img src="https://github-readme-stats.vercel.app/api?username=aaravsharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=8B5CF6&icon_color=6366F1&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=8B5CF6&langs_count=8" height="170" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaravsharma&theme=tokyonight&hide_border=true&background=1e1e2e&ring=8B5CF6&fire=6366F1&currStreakLabel=8B5CF6" alt="Streak Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaravsharma&theme=tokyo-night&hide_border=true&bg_color=1e1e2e&color=8B5CF6&line=6366F1&point=A78BFA" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
+## 🏆 Achievements & Certifications
+
 <div align="center">
-  <h2>Certifications</h2>
+
+<img src="https://github-profile-trophy.vercel.app/?username=aaravsharma&theme=tokyonight&no-frame=true&column=7&margin-w=8" width="100%" alt="Trophies"/>
+
 </div>
 
-### AWS
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SA" />
-  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS Dev" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CP" />
-</div>
-
-### Oracle
-<div align="center">
-  <img src="https://img.shields.io/badge/Oracle-Java%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Java" />
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
-</div>
-
-### NPTEL
-<div align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Science-6D28D9?style=for-the-badge" alt="NPTEL DS" />
-  <img src="https://img.shields.io/badge/NPTEL-Algorithms-7C3AED?style=for-the-badge" alt="NPTEL Algo" />
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-8B5CF6?style=for-the-badge" alt="NPTEL Cloud" />
-</div>
-
-### Cisco
-<div align="center">
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Security" />
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7" alt="Cisco Net" />
-</div>
+- 🥇 **Winner** — Smart India Hackathon (AI/ML track)
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🤖 **TensorFlow Developer Certificate** — Google
+- ⭐ **1400+ rating** on LeetCode • **500+ DSA problems** solved
+- 📝 Technical writer — articles on system design & MLOps with **50K+ reads**
 
 ---
 
-<div align="center">
-  <h2>Coding Profiles</h2>
-</div>
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://leetcode.com/USERNAME">
-    <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode" height="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/USERNAME">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0D1117" alt="GeeksforGeeks" height="40" />
-  </a>
-  <a href="https://www.hackerrank.com/USERNAME">
-    <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117" alt="HackerRank" height="40" />
-  </a>
-  <a href="https://www.codechef.com/users/USERNAME">
-    <img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=0D1117" alt="CodeChef" height="40" />
-  </a>
-</div>
 
----
+**Always open to interesting conversations about distributed systems, ML infrastructure, and building products that scale.**
 
-<div align="center">
-  <h2>GitHub Analytics</h2>
-</div>
+<br/>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF&stroke=4C1D95" alt="Streak" />
-</div>
+<a href="https://linkedin.com/in/aaravsharma"><img src="https://img.shields.io/badge/Let's_Talk-LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aarav.sharma@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" alt="Top Languages" />
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<div align="center">
-  <h2>GitHub Trophies</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=12" alt="Trophies" />
-</div>
-
----
-
-<div align="center">
-  <h2>Contribution Activity</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true&area_color=4C1D95" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <h2>Contribution Snake</h2>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <h2>Current Focus</h2>
-</div>
-```yaml
-Learning:
-  - Advanced Distributed Systems & Consensus
-  - LLM Agents, RAG Evaluation & Productionization
-  - Performance Engineering at Scale
-
-Building:
-  - Cloud-native AI infrastructure and developer platforms
-  - High-reliability product systems with strong observability
-  - Open-source tooling for engineers
-
-Exploring:
-  - Multi-agent architectures and tool-using LLMs
-  - Efficient inference and systems for foundation models
-  - Modern data platforms and real-time ML
-
-Open To:
-  - Senior Software Engineer / AI Engineer roles
-  - Platform & product engineering opportunities
-  - Impactful open-source collaboration
-
----
-
-<div align="center">
-  <h2>Connect</h2>
-</div>
-
-<div align="center">
-  <a href="mailto:hello@username.dev">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/username">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://username.dev">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <br />
-  <em>Building systems that scale. Engineering products that matter.</em>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,6,24&height=120&section=footer" alt="footer" />
 </div>
