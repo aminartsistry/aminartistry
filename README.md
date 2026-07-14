@@ -1,223 +1,268 @@
-<!-- HEADER / HERO BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=240&section=header&text=CIELBYTE&fontSize=75&fontColor=ffffff&animation=twinkling" width="100%" />
-</p>
+<div align="center">
 
-<!-- TYPING INTRODUCTION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Creative+Director;Graphic+Designer;Designing+Logic.+Coding+Art." />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:4F46E5,100:8B5CF6&height=220&section=header&text=CielByte&fontSize=70&fontColor=EDE9FE&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20Canvas&descAlignY=58&descSize=20" />
 
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://linkedin.com/in/CielByte" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:contact@cielbyte.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://behance.net/CielByte" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="https://dribbble.com/CielByte" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" width="100%" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Full+Stack+Developer+%E2%9A%A1;Graphic+Designer+%F0%9F%8E%A8;Crafting+Digital+Experiences+That+Feel+Alive;Where+Pixels+Meet+Production+Code" alt="Typing SVG" />
+</a>
 
-<!-- ABOUT ME & PROFILE AT A GLANCE (SIDE-BY-SIDE GRID) -->
-<table border="0" width="100%">
-  <tr>
-    <!-- BIO (LEFT COLUMN) -->
-    <td width="65%" valign="top" style="border: none; padding-right: 15px;">
-      <h3>⚡ The Convergence of Logic & Aesthetics</h3>
-      <p>
-        I am a <strong>Full Stack Developer and Graphic Designer</strong> who bridges the raw structural power of clean engineering with the emotional depth of high-end design. To me, code is not simply functional logic—it is a digital canvas. Every pixel has a purpose; every system architecture has an aesthetic.
-      </p>
-      <p>
-        I specialize in turning intricate concepts into responsive, highly interactive web applications, crafting beautiful interface architectures, and creating cohesive visual identities. I love taking complex, data-heavy systems and molding them into seamless, user-centric human experiences.
-      </p>
-      <br />
-      <blockquote>
-        <b>Design + Code Motif:</b><br />
-        <i>"Architecture constructs the framework of digital realms; art breathes the consciousness, motion, and identity into them. True innovation exists solely at their intersection."</i>
-      </blockquote>
-    </td>
-    <!-- QUICK INFO (RIGHT COLUMN) -->
-    <td width="35%" valign="top" style="border: none; background-color: #0D0E15; padding: 20px; border-radius: 12px; border: 1px solid #232738;">
-      <h4 align="center">📍 Profile Index</h4>
-      <hr style="border-color: #232738;" />
-      <ul>
-        <li><b>Identity:</b> He / Him</li>
-        <li><b>Focus:</b> Advanced UI/UX & Full-Stack Architecture</li>
-        <li><b>Core Mediums:</b> TypeScript, Next.js, Figma, Illustrator</li>
-        <li><b>Vibe:</b> Minimalist, Dark-mode, Premium</li>
-      </ul>
-      <hr style="border-color: #232738;" />
-      <p align="center">
-        <img src="https://komarev.com/normal-badge.png?id=CielByte&color=8B5CF6&style=flat-square&label=VISITOR+INDEX" alt="Profile Views" />
-      </p>
-    </td>
-  </tr>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PROFILE_VIEWS-8B5CF6?style=for-the-badge&labelColor=0F0F1A" />&nbsp;<img src="https://komarev.com/ghpvc/?username=CielByte&style=flat-square&color=6366f1&label=" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO_COLLAB-4F46E5?style=for-the-badge&labelColor=0F0F1A" />
+
+<br/><br/>
+
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Dribbble-A78BFA?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-4F46E5?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e" /></a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> &nbsp;About Me
+
+<table width="100%" style="border:none;">
+<tr>
+<td width="65%" valign="top">
+
+```javascript
+const CielByte = {
+    role: "Full Stack Developer + Graphic Designer",
+    location: "Somewhere between Figma & VS Code",
+    
+    philosophy: () => {
+        return "I don't just write code — I compose interfaces.
+                I don't just design — I engineer feeling into pixels.";
+    },
+    
+    currentFocus: [
+        "Building scalable, elegant web applications",
+        "Designing brand identities that speak silently",
+        "Merging aesthetic intuition with technical precision"
+    ],
+    
+    funFact: "I prototype in Figma before I even open my editor."
+};
+```
+
+I'm a developer who thinks like a designer, and a designer who codes like an engineer. My work lives in the space where **clean architecture** meets **visual storytelling** — every project I ship is judged by two standards: does it *work* flawlessly, and does it *feel* beautiful.
+
+I believe great products aren't built by developers or designers alone — they're built by people who refuse to separate the two.
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=280&lines=%3C%2F%3E+Design;%7B+Develop+%7D;%5B+Deploy+%5D;%E2%9C%A6+Repeat" />
+
+<br/>
+
+```
+   ╭──────────────╮
+   │   DESIGN     │
+   │      ×       │
+   │    CODE      │
+   ╰──────────────╯
+```
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" width="100%" />
-</p>
+<br/>
 
-<!-- TECH STACK SECTION -->
-<h2 align="center">🛠️ The Skill Matrix</h2>
-<p align="center" style="color: #9CA3AF;">A balanced suite of engineering precision and visual mastery.</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-<table border="0" width="100%">
-  <tr>
-    <!-- ENGINEERING ENGINE -->
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <h3 align="center">💻 Digital Engineering</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,docker" />
-      </p>
-    </td>
-    <!-- DESIGN WORKSHOP -->
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <h3 align="center">🎨 Creative Direction</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,xd,blender" />
-      </p>
-    </td>
-  </tr>
+<br/>
+
+## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> &nbsp;Tech Stack
+
+<div align="center">
+
+### 🖥️ &nbsp; Development
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,php,laravel,html,css,tailwind,mysql,mongodb,git,docker&theme=dark" />
+
+<br/><br/>
+
+`API Design` &nbsp;•&nbsp; `RESTful Architecture` &nbsp;•&nbsp; `Database Modeling` &nbsp;•&nbsp; `Responsive Systems` &nbsp;•&nbsp; `CI/CD`
+
+<br/>
+
+### 🎨 &nbsp; Design
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,blender&theme=dark" />
+
+<br/><br/>
+
+`Brand Identity` &nbsp;•&nbsp; `UI/UX Systems` &nbsp;•&nbsp; `Design Tokens` &nbsp;•&nbsp; `Motion Design` &nbsp;•&nbsp; `Illustration`
+
+<br/>
+
+### ⚙️ &nbsp; Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=vscode,github,vercel,postman,notion,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CielByte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_radius=12&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CielByte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12&langs_count=8" />
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=CielByte&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=CielByte&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=2" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> &nbsp;Currently Focused On
+
+<div align="center">
+<table width="90%">
+<tr>
+<td align="center" width="25%">🧠<br/><b>System Design</b><br/><sub>Scalable architecture patterns</sub></td>
+<td align="center" width="25%">🎯<br/><b>Advanced Motion UI</b><br/><sub>Framer Motion & GSAP</sub></td>
+<td align="center" width="25%">☁️<br/><b>Cloud Infrastructure</b><br/><sub>AWS & Docker orchestration</sub></td>
+<td align="center" width="25%">🖌️<br/><b>Design Systems</b><br/><sub>Scalable component libraries</sub></td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> &nbsp;Featured Projects
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🪐 Project Nova
+**SaaS Dashboard Platform**
+
+<img src="https://img.shields.io/badge/-React-8B5CF6?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-Node.js-6366F1?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-MongoDB-4F46E5?style=flat-square&labelColor=1a1a2e" />
+
+A full-stack analytics dashboard with real-time data visualization and a custom-built design system.
+
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-A78BFA?style=flat-square" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square" /></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🎭 Project Aurora
+**Brand + Web Identity**
+
+<img src="https://img.shields.io/badge/-Figma-8B5CF6?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-Next.js-6366F1?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-Tailwind-4F46E5?style=flat-square&labelColor=1a1a2e" />
+
+A complete brand identity system paired with a pixel-perfect marketing site build.
+
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-A78BFA?style=flat-square" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square" /></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🌌 Project Eclipse
+**E-commerce Engine**
+
+<img src="https://img.shields.io/badge/-Laravel-8B5CF6?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-MySQL-6366F1?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-Stripe-4F46E5?style=flat-square&labelColor=1a1a2e" />
+
+A high-performance e-commerce platform with custom checkout flow and admin design tools.
+
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-A78BFA?style=flat-square" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square" /></a>
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Specialties-Progressive%20Web%20Apps%20%7C%20Dynamic%20UI%20%7C%20Visual%20Identity%20System-8B5CF6?style=flat-square" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-<!-- FEATURED CREATIONS / PROJECTS SECTION -->
-<h2 align="center">🌌 Featured Showcases</h2>
-<p align="center" style="color: #9CA3AF;">A curated selection of elite digital assets merging code and custom design.</p>
+<br/>
 
-<table border="0" width="100%">
-  <tr>
-    <!-- PROJECT 1 -->
-    <td width="33%" valign="top" style="border: none; padding: 15px; background-color: #0D0E15; border-radius: 12px; border: 1px solid #232738;">
-      <h4 align="center">🎵 MelodyFlow</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Product-Mobile%20Player-8B5CF6?style=flat-square" />
-      </p>
-      <p style="font-size: 13px; color: #9CA3AF; min-height: 70px;">
-        A standalone high-performance mobile music application optimized for fluid gesture controls, native audio caching, and pixel-perfect transitions.
-      </p>
-      <p align="center">
-        <code>React Native</code> • <code>Tailwind</code> • <code>WebAudio</code>
-      </p>
-    </td>
-    <!-- PROJECT 2 -->
-    <td width="33%" valign="top" style="border: none; padding: 15px; background-color: #0D0E15; border-radius: 12px; border: 1px solid #232738;">
-      <h4 align="center">📐 PIXLAR Identity</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/System-Brand%20Framework-6366F1?style=flat-square" />
-      </p>
-      <p style="font-size: 13px; color: #9CA3AF; min-height: 70px;">
-        A futuristic geometric branding system built around a strict pixel-grid layout to represent corporate structure paired with radical design layouts.
-      </p>
-      <p align="center">
-        <code>Figma</code> • <code>Illustrator</code> • <code>Motion</code>
-      </p>
-    </td>
-    <!-- PROJECT 3 -->
-    <td width="33%" valign="top" style="border: none; padding: 15px; background-color: #0D0E15; border-radius: 12px; border: 1px solid #232738;">
-      <h4 align="center">🎙️ Offline Transcript</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Engine-Offline%20Wasm-4F46E5?style=flat-square" />
-      </p>
-      <p style="font-size: 13px; color: #9CA3AF; min-height: 70px;">
-        An offline-first, client-side browser speech-to-text platform parsing audio assets instantly in an isolated WebAssembly sandbox environment.
-      </p>
-      <p align="center">
-        <code>WebAssembly</code> • <code>JS/TS</code> • <code>Tailwind</code>
-      </p>
-    </td>
-  </tr>
-</table>
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> &nbsp;Design Philosophy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" width="100%" />
-</p>
+<div align="center">
 
-<!-- GITHUB METRICS / ANALYTICS SECTION -->
-<h2 align="center">📈 Analytical Footprint</h2>
-<p align="center" style="color: #9CA3AF;">Tracking performance, consistency, and technological focus.</p>
+```
+"Code is the grammar. Design is the poetry.
+ A great product is written in both languages fluently."
+```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CielByte&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+<br/>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=CielByte&show_icons=true&locale=en&bg_color=0D0E15&text_color=E0E7FF&icon_color=8B5CF6&title_color=A78BFA&border_color=232738" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CielByte&layout=compact&langs_count=8&bg_color=0D0E15&text_color=E0E7FF&icon_color=8B5CF6&title_color=A78BFA&border_color=232738" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none; padding-top: 15px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CielByte&background=0D0E15&text=E0E7FF&ring=8B5CF6&fire=A78BFA&currStreakNum=E0E7FF&sideLabels=A78BFA&border=232738" alt="Streak Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=1500&color=C9D1D9&center=true&vCenter=true&italic=true&width=680&lines=I+build+not+just+for+function%2C+but+for+feeling.;Every+pixel+has+intent.+Every+line+of+code+has+purpose." />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" width="100%" />
-</p>
+</div>
 
-<!-- FOCUS AREAS / CURRENT EXPEDITIONS -->
-<h2 align="center">🚀 Current Focus Areas</h2>
-
-<details open>
-  <summary><b>🎯 Active Research</b></summary>
-  <br />
-  <ul>
-    <li>🪐 <b>Generative UI Engineering:</b> Designing runtime UX interfaces that dynamically render layouts based on state variables and context requirements.</li>
-    <li>⚡ <b>Core Web Performance Optimization:</b> Diving deep into edge rendering methodologies, WASM modules, and optimized resource caching rules.</li>
-    <li>🎨 <b>Interactive 3D Frameworks:</b> Studying the optimization of complex 3D meshes using shaders and interactive canvas environments inside Next.js.</li>
-  </ul>
-</details>
+<br/>
 
 <details>
-  <summary><b>📐 Visual Engineering Values</b></summary>
-  <br />
-  <p>
-    An interface is not merely a gatekeeper of data; it is an emotional touchpoint. Clean, functional code constructs the skeletal architecture of digital realms; design breathes life and consciousness into them. True innovation lies at their exact, cohesive intersection.
-  </p>
+<summary><b>💭 A note on why I do what I do</b></summary>
+<br/>
+
+I've always believed that the wall between "developer" and "designer" is artificial. The best digital products in the world aren't built by teams that hand off files back and forth — they're built by people who understand both sides deeply enough to make decisions that serve the whole.
+
+That's the space I try to live in. Not a jack of two trades, but a craftsperson who sees the full picture — from the database schema to the drop shadow.
+
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/violet.png" width="100%" />
-</p>
+<br/>
 
-<!-- CONNECT & FOOTER -->
-<h3 align="center">📫 Initiate a Connection</h3>
-<p align="center" style="color: #9CA3AF;">Let's build architectures that run efficiently and design assets that stand out.</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
 
-<p align="center">
-  <a href="https://linkedin.com/in/CielByte" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@cielbyte.com"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://behance.net/CielByte" target="_blank"><img src="https://img.shields.io/badge/Behance-4F46E5?style=for-the-badge&logo=behance&logoColor=white" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=40&lines=System.exit(0);%2F%2F+Keep+creating.+Keep+compiling." />
-</p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> &nbsp;Let's Connect
 
-<p align="center">
-  <sub>Designed & Coded with 💜 by <b>CielByte</b> • © 2026</sub>
-</p>
+<div align="center">
+
+I'm always open to conversations about ambitious products, design systems, or just great ideas over coffee ☕
+
+<a href="#"><img src="https://img.shields.io/badge/Email_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Behance-A78BFA?style=for-the-badge&logo=behance&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=15&duration=3000&pause=1200&color=6D6D8A&center=true&vCenter=true&width=550&lines=Designed+with+intention.+Engineered+with+precision.;Thank+you+for+visiting+my+corner+of+the+internet+%E2%9C%A8" />
+
+<br/><br/>
+
+<sub>✦ &nbsp;crafted by <b>CielByte</b> &nbsp;—&nbsp; <i>where design finds its syntax</i> &nbsp;✦</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4F46E5,100:0F0F1A&height=120&section=footer" />
