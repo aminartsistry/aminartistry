@@ -1,268 +1,178 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:4F46E5,100:8B5CF6&height=220&section=header&text=CielByte&fontSize=70&fontColor=EDE9FE&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20Canvas&descAlignY=58&descSize=20" />
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='350' height='70' viewBox='0 0 350 70'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='0'%3E%3Cstop offset='0' stop-color='%236366F1'/%3E%3Cstop offset='0.5' stop-color='%238B5CF6'/%3E%3Cstop offset='1' stop-color='%23A78BFA'/%3E%3C/linearGradient%3E%3C/defs%3E%3Ctext x='50%25' y='55' font-family='Segoe UI, Helvetica, sans-serif' font-size='52' font-weight='bold' fill='url(%23g)' text-anchor='middle' letter-spacing='2'%3ECielByte%3C/text%3E%3C/svg%3E" alt="CielByte" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Graphic+Designer;Bridging+Code+%26+Canvas;Building+Premium+Digital+Experiences" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Full+Stack+Developer+%E2%9A%A1;Graphic+Designer+%F0%9F%8E%A8;Crafting+Digital+Experiences+That+Feel+Alive;Where+Pixels+Meet+Production+Code" alt="Typing SVG" />
-</a>
+<img src="https://img.shields.io/badge/%3C%2F%3E%20CODE%20+%20DESIGN%20%E2%9C%A6-8B5CF6?style=for-the-badge&labelColor=0D1117" alt="Code + Design Motif" />
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-8B5CF6?style=for-the-badge&labelColor=0F0F1A" />&nbsp;<img src="https://komarev.com/ghpvc/?username=CielByte&style=flat-square&color=6366f1&label=" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO_COLLAB-4F46E5?style=for-the-badge&labelColor=0F0F1A" />
-
-<br/><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Dribbble-A78BFA?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Twitter-4F46E5?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e" /></a>
+<a href="https://github.com/CielByte"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/CielByte"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn"/></a>
+<a href="https://dribbble.com/CielByte"><img src="https://img.shields.io/badge/Dribbble-0D1117?style=for-the-badge&logo=dribbble&logoColor=8B5CF6" alt="Dribbble"/></a>
+<a href="https://www.behance.net/CielByte"><img src="https://img.shields.io/badge/Behance-0D1117?style=for-the-badge&logo=behance&logoColor=8B5CF6" alt="Behance"/></a>
+<br/>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=CielByte&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> &nbsp;About Me
-
-<table width="100%" style="border:none;">
-<tr>
-<td width="65%" valign="top">
-
-```javascript
-const CielByte = {
-    role: "Full Stack Developer + Graphic Designer",
-    location: "Somewhere between Figma & VS Code",
-    
-    philosophy: () => {
-        return "I don't just write code — I compose interfaces.
-                I don't just design — I engineer feeling into pixels.";
-    },
-    
-    currentFocus: [
-        "Building scalable, elegant web applications",
-        "Designing brand identities that speak silently",
-        "Merging aesthetic intuition with technical precision"
-    ],
-    
-    funFact: "I prototype in Figma before I even open my editor."
-};
-```
-
-I'm a developer who thinks like a designer, and a designer who codes like an engineer. My work lives in the space where **clean architecture** meets **visual storytelling** — every project I ship is judged by two standards: does it *work* flawlessly, and does it *feel* beautiful.
-
-I believe great products aren't built by developers or designers alone — they're built by people who refuse to separate the two.
-
-</td>
-<td width="35%" valign="top" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=280&lines=%3C%2F%3E+Design;%7B+Develop+%7D;%5B+Deploy+%5D;%E2%9C%A6+Repeat" />
-
-<br/>
-
-```
-   ╭──────────────╮
-   │   DESIGN     │
-   │      ×       │
-   │    CODE      │
-   ╰──────────────╯
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="35"> &nbsp;Tech Stack
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='20' viewBox='0 0 800 20'%3E%3Cline x1='0' y1='10' x2='380' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3Ccircle cx='400' cy='10' r='5' fill='%238B5CF6'%3E%3Canimate attributeName='r' values='5;8;5' dur='2s' repeatCount='indefinite'/%3E%3Canimate attributeName='opacity' values='1;0.5;1' dur='2s' repeatCount='indefinite'/%3E%3C/circle%3E%3Cline x1='420' y1='10' x2='800' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3C/svg%3E" width="100%" alt="separator" />
 
 <div align="center">
 
-### 🖥️ &nbsp; Development
+### 💫 About Me
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,php,laravel,html,css,tailwind,mysql,mongodb,git,docker&theme=dark" />
+I exist at the intersection where structured engineering meets unbound creativity. 
+My journey is defined by a dual obsession: writing clean, scalable code and designing interfaces that feel alive. 
 
-<br/><br/>
-
-`API Design` &nbsp;•&nbsp; `RESTful Architecture` &nbsp;•&nbsp; `Database Modeling` &nbsp;•&nbsp; `Responsive Systems` &nbsp;•&nbsp; `CI/CD`
-
-<br/>
-
-### 🎨 &nbsp; Design
-
-<img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,blender&theme=dark" />
-
-<br/><br/>
-
-`Brand Identity` &nbsp;•&nbsp; `UI/UX Systems` &nbsp;•&nbsp; `Design Tokens` &nbsp;•&nbsp; `Motion Design` &nbsp;•&nbsp; `Illustration`
-
-<br/>
-
-### ⚙️ &nbsp; Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=vscode,github,vercel,postman,notion,linux&theme=dark" />
+I don't just build applications; I engineer experiences. 
+Whether it's architecting a full-stack platform or crafting a micro-interaction in Figma, 
+my goal remains the same—merging pixel-perfect aesthetics with rock-solid logic.
 
 </div>
 
-<br/>
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='20' viewBox='0 0 800 20'%3E%3Cline x1='0' y1='10' x2='380' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3Ccircle cx='400' cy='10' r='5' fill='%238B5CF6'%3E%3Canimate attributeName='r' values='5;8;5' dur='2s' repeatCount='indefinite'/%3E%3Canimate attributeName='opacity' values='1;0.5;1' dur='2s' repeatCount='indefinite'/%3E%3C/circle%3E%3Cline x1='420' y1='10' x2='800' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3C/svg%3E" width="100%" alt="separator" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CielByte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&border_radius=12&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CielByte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=12&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=CielByte&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9D1D9&border_radius=12" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=CielByte&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=2" />
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"> &nbsp;Currently Focused On
-
-<div align="center">
-<table width="90%">
-<tr>
-<td align="center" width="25%">🧠<br/><b>System Design</b><br/><sub>Scalable architecture patterns</sub></td>
-<td align="center" width="25%">🎯<br/><b>Advanced Motion UI</b><br/><sub>Framer Motion & GSAP</sub></td>
-<td align="center" width="25%">☁️<br/><b>Cloud Infrastructure</b><br/><sub>AWS & Docker orchestration</sub></td>
-<td align="center" width="25%">🖌️<br/><b>Design Systems</b><br/><sub>Scalable component libraries</sub></td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> &nbsp;Featured Projects
+### 🛠️ Tech Stack & Arsenal
 
 <table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🪐 Project Nova
-**SaaS Dashboard Platform**
-
-<img src="https://img.shields.io/badge/-React-8B5CF6?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-Node.js-6366F1?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-MongoDB-4F46E5?style=flat-square&labelColor=1a1a2e" />
-
-A full-stack analytics dashboard with real-time data visualization and a custom-built design system.
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-A78BFA?style=flat-square" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square" /></a>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🎭 Project Aurora
-**Brand + Web Identity**
-
-<img src="https://img.shields.io/badge/-Figma-8B5CF6?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-Next.js-6366F1?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-Tailwind-4F46E5?style=flat-square&labelColor=1a1a2e" />
-
-A complete brand identity system paired with a pixel-perfect marketing site build.
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-A78BFA?style=flat-square" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square" /></a>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🌌 Project Eclipse
-**E-commerce Engine**
-
-<img src="https://img.shields.io/badge/-Laravel-8B5CF6?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-MySQL-6366F1?style=flat-square&labelColor=1a1a2e" /> <img src="https://img.shields.io/badge/-Stripe-4F46E5?style=flat-square&labelColor=1a1a2e" />
-
-A high-performance e-commerce platform with custom checkout flow and admin design tools.
-
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-A78BFA?style=flat-square" /></a> <a href="#"><img src="https://img.shields.io/badge/Source-333?style=flat-square" /></a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>⚙️ Development & Engineering</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,tailwind,docker,aws,redis,graphql" alt="Dev Stack" />
+      <br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Architecture-0D1117?style=flat-square&logo=serverless&logoColor=8B5CF6" alt="Architecture" />
+      <img src="https://img.shields.io/badge/API_Design-0D1117?style=flat-square&logo=fastapi&logoColor=8B5CF6" alt="API" />
+      <img src="https://img.shields.io/badge/CI/CD-0D1117?style=flat-square&logo=githubactions&logoColor=8B5CF6" alt="CICD" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🎨 Design & Creative</h3>
+      <br/>
+      <img src="https://img.shields.io/badge/Figma-8B5CF6?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+      <img src="https://img.shields.io/badge/Illustrator-8B5CF6?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+      <img src="https://img.shields.io/badge/Photoshop-8B5CF6?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+      <img src="https://img.shields.io/badge/After_Effects-8B5CF6?style=flat-square&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+      <img src="https://img.shields.io/badge/Blender-8B5CF6?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+      <br/>
+      <br/>
+      <img src="https://img.shields.io/badge/UI/UX_Systems-0D1117?style=flat-square&logo=storybook&logoColor=8B5CF6" alt="UI/UX" />
+      <img src="https://img.shields.io/badge/Motion_Graphics-0D1117?style=flat-square&logo=adobepremierepro&logoColor=8B5CF6" alt="Motion" />
+      <img src="https://img.shields.io/badge/3D_Modeling-0D1117?style=flat-square&logo=threedotjs&logoColor=8B5CF6" alt="3D" />
+    </td>
+  </tr>
 </table>
 
-<br/>
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='20' viewBox='0 0 800 20'%3E%3Cline x1='0' y1='10' x2='380' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3Ccircle cx='400' cy='10' r='5' fill='%238B5CF6'%3E%3Canimate attributeName='r' values='5;8;5' dur='2s' repeatCount='indefinite'/%3E%3Canimate attributeName='opacity' values='1;0.5;1' dur='2s' repeatCount='indefinite'/%3E%3C/circle%3E%3Cline x1='420' y1='10' x2='800' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3C/svg%3E" width="100%" alt="separator" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
+### 🚀 Featured Projects
 
-<br/>
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> &nbsp;Design Philosophy
-
-<div align="center">
-
-```
-"Code is the grammar. Design is the poetry.
- A great product is written in both languages fluently."
-```
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=1500&color=C9D1D9&center=true&vCenter=true&italic=true&width=680&lines=I+build+not+just+for+function%2C+but+for+feeling.;Every+pixel+has+intent.+Every+line+of+code+has+purpose." />
-
-</div>
-
-<br/>
+<table width="100%">
+  <tr>
+    <td width="33.33%" valign="top" align="center">
+      <img src="https://dummyimage.com/600x340/0D1117/8B5CF6&text=NovaUI+%E2%9C%A6" width="100%" alt="NovaUI" />
+      <h3>NovaUI</h3>
+      <p>A design-system-first React component library bridging Figma variables and code seamlessly.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      <br/>
+      <a href="https://github.com/CielByte/NovaUI"><img src="https://img.shields.io/badge/Explore-0D1117?style=flat-square&logo=github&logoColor=8B5CF6" alt="Explore"/></a>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <img src="https://dummyimage.com/600x340/0D1117/A78BFA&text=ChromaEngine" width="100%" alt="ChromaEngine" />
+      <h3>ChromaEngine</h3>
+      <p>Microservice for real-time palette extraction and dynamic UI theming via image analysis.</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <br/>
+      <a href="https://github.com/CielByte/ChromaEngine"><img src="https://img.shields.io/badge/Explore-0D1117?style=flat-square&logo=github&logoColor=8B5CF6" alt="Explore"/></a>
+    </td>
+    <td width="33.33%" valign="top" align="center">
+      <img src="https://dummyimage.com/600x340/0D1117/6366F1&text=Aura3D" width="100%" alt="Aura3D" />
+      <h3>Aura3D</h3>
+      <p>An open-source WebGL template for immersive, interactive developer portfolios.</p>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Threejs" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Nextjs" />
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+      <br/>
+      <a href="https://github.com/CielByte/Aura3D"><img src="https://img.shields.io/badge/Explore-0D1117?style=flat-square&logo=github&logoColor=8B5CF6" alt="Explore"/></a>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>💭 A note on why I do what I do</b></summary>
+<summary><b>🔭 Currently Exploring & Focus Areas</b></summary>
 <br/>
-
-I've always believed that the wall between "developer" and "designer" is artificial. The best digital products in the world aren't built by teams that hand off files back and forth — they're built by people who understand both sides deeply enough to make decisions that serve the whole.
-
-That's the space I try to live in. Not a jack of two trades, but a craftsperson who sees the full picture — from the database schema to the drop shadow.
-
+🌌 <strong>WebGPU & Next-Gen Rendering</strong> — Pushing the boundaries of browser-based 3D and visual computing.<br/>
+📐 <strong>Advanced Design Systems</strong> — Automating the bridge between design tokens and engineering variables.<br/>
+⚙️ <strong>Rust Microservices</strong> — Architecting blazing-fast, memory-safe backend infrastructure.<br/>
 </details>
 
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='20' viewBox='0 0 800 20'%3E%3Cline x1='0' y1='10' x2='380' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3Ccircle cx='400' cy='10' r='5' fill='%238B5CF6'%3E%3Canimate attributeName='r' values='5;8;5' dur='2s' repeatCount='indefinite'/%3E%3Canimate attributeName='opacity' values='1;0.5;1' dur='2s' repeatCount='indefinite'/%3E%3C/circle%3E%3Cline x1='420' y1='10' x2='800' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3C/svg%3E" width="100%" alt="separator" />
+
+### 📊 GitHub Analytics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=CielByte&show_icons=true&hide_border=true&theme=tokyonight&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CielByte&hide_border=true&theme=tokyonight&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9&bg_color=0D1117" alt="Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" align="center">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CielByte&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="Top Languages" width="60%" />
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🏆 GitHub Achievements</b></summary>
 <br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CielByte&theme=dracula&no-bg=true&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
+</div>
+</details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> &nbsp;Let's Connect
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='20' viewBox='0 0 800 20'%3E%3Cline x1='0' y1='10' x2='380' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3Ccircle cx='400' cy='10' r='5' fill='%238B5CF6'%3E%3Canimate attributeName='r' values='5;8;5' dur='2s' repeatCount='indefinite'/%3E%3Canimate attributeName='opacity' values='1;0.5;1' dur='2s' repeatCount='indefinite'/%3E%3C/circle%3E%3Cline x1='420' y1='10' x2='800' y2='10' stroke='%2330363D' stroke-width='2'/%3E%3C/svg%3E" width="100%" alt="separator" />
 
 <div align="center">
 
-I'm always open to conversations about ambitious products, design systems, or just great ideas over coffee ☕
+### 💡 Design Philosophy
 
-<a href="#"><img src="https://img.shields.io/badge/Email_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Behance-A78BFA?style=for-the-badge&logo=behance&logoColor=white&labelColor=1a1a2e" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e" /></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=15&duration=3000&pause=1200&color=6D6D8A&center=true&vCenter=true&width=550&lines=Designed+with+intention.+Engineered+with+precision.;Thank+you+for+visiting+my+corner+of+the+internet+%E2%9C%A8" />
-
-<br/><br/>
-
-<sub>✦ &nbsp;crafted by <b>CielByte</b> &nbsp;—&nbsp; <i>where design finds its syntax</i> &nbsp;✦</sub>
+<h3><i>"Code is the skeleton; design is the soul. I build systems where structure breathes and aesthetics move."</i></h3>
+<p>— CielByte</p>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:4F46E5,100:0F0F1A&height=120&section=footer" />
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='60' viewBox='0 0 1200 60' preserveAspectRatio='none'%3E%3Cpath d='M0,30 C150,60 350,0 600,30 C850,60 1050,0 1200,30 L1200,60 L0,60 Z' fill='%231A1C2C'%3E%3Canimate attributeName='d' dur='6s' repeatCount='indefinite' values='M0,30 C150,60 350,0 600,30 C850,60 1050,0 1200,30 L1200,60 L0,60 Z; M0,30 C150,0 350,60 600,30 C850,0 1050,60 1200,30 L1200,60 L0,60 Z; M0,30 C150,60 350,0 600,30 C850,60 1050,0 1200,30 L1200,60 L0,60 Z' /%3E%3C/path%3E%3Cpath d='M0,35 C150,65 350,5 600,35 C850,65 1050,5 1200,35 L1200,60 L0,60 Z' fill='%238B5CF6' opacity='0.3'%3E%3Canimate attributeName='d' dur='8s' repeatCount='indefinite' values='M0,35 C150,65 350,5 600,35 C850,65 1050,5 1200,35 L1200,60 L0,60 Z; M0,35 C150,5 350,65 600,35 C850,5 1050,65 1200,35 L1200,60 L0,60 Z; M0,35 C150,65 350,5 600,35 C850,65 1050,5 1200,35 L1200,60 L0,60 Z' /%3E%3C/path%3E%3C/svg%3E" alt="Wave Footer" width="100%" />
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+<br/>
+<br/>
+
+<a href="mailto:hello@cielbyte.dev"><img src="https://img.shields.io/badge/Email_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email"/></a>
+<a href="https://github.com/CielByte"><img src="https://img.shields.io/badge/Follow_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="Follow"/></a>
+<a href="https://dribbble.com/CielByte"><img src="https://img.shields.io/badge/View_Designs-0D1117?style=for-the-badge&logo=dribbble&logoColor=8B5CF6" alt="Dribbble"/></a>
+
+<br/>
+<br/>
+
+<p>✦ <i>CielByte</i> © 2024 · Crafted with precision, code, and coffee.</p>
+
+</div>
